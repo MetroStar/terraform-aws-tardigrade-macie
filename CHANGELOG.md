@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2022.05.20
 
-**Commit Delta**: [Change from 0.0.1 release](https://github.com/plus3it/terraform-aws-tardigrade-macie-member/compare/0.0.1...1.0.0)
+**Commit Delta**: [Change from 0.0.1 release](https://github.com/MetroStar/terraform-aws-tardigrade-macie-member/compare/0.0.1...1.0.0)
 
 **Summary**:
 
@@ -23,7 +23,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2020.05.14
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-macie-member/compare/0.0.0...0.0.1)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-macie-member/compare/0.0.0...0.0.1)
 
 **Summary**:
 
